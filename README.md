@@ -1,15 +1,19 @@
 # <a href="https://www.linkedin.com/in/mdenizcengiz/">Deniz Cengiz</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-Text
+## 🚨 Threat Hunting and Security Operations
+
+- **[SOC Analyst Home Lab](https://github.com/mdenizcengiz/SOC-Analyst-Home-Lab)**
+- **[SOAR EDR Home Lab](https://github.com/mdenizcengiz/SOAR-EDR-HOME-LAB)**
 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/mdenizcengiz/Vulnerability-Management-Program)**
 - **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/mdenizcengiz/Vulnerability-Management/tree/main)**
 
-## 🚨 Threat Hunting and Security Operations
 
-- **[TITLE](LINK)**
+## 📱 iOS Software Development Project
+
+- **[iOS Mobile Application Best Seller NY Times](https://github.com/mdenizcengiz/BestSellerBooks)**
 
 <hr/>
 
