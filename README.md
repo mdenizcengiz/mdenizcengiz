@@ -13,7 +13,7 @@
 
 ## 📱 iOS Software Development Project
 
-- **[iOS Mobile Application Best Seller NY Times](https://github.com/mdenizcengiz/BestSellerBooks)**
+- **[iOS Mobile Application BestRead NY Times](https://github.com/mdenizcengiz/BestSellerBooks)**
 
 <hr/>
 
