@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/mdenizcengiz/">Deniz Cengiz</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/mdenizcengiz/">Deniz Cengiz</a>'s Project Portfolio 🔐
 
 ##  Threat Hunting and Security Operations
 
