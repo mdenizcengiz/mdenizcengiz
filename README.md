@@ -3,6 +3,7 @@
 ##  Threat Hunting and Security Operations
 
 - **[SOC Analyst Home Lab](https://github.com/mdenizcengiz/SOC-Analyst-Home-Lab)**
+- **[Threat Hunting Port of Entry](https://github.com/mdenizcengiz/Threat-Hunting-Project-Port-of-Entry)**
 - **[Threat Hunting Home Lab](https://github.com/mdenizcengiz/Threat-Hunting-Scenario)**
 - **[SOAR EDR Home Lab](https://github.com/mdenizcengiz/SOAR-EDR-HOME-LAB)**
 
