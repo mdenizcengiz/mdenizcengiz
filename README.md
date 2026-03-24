@@ -2,6 +2,7 @@
 
 ##  Threat Hunting and Security Operations
 
+- **[Elastic-SIEM-Jira-SOC-Workflow](https://github.com/mdenizcengiz/Cybersecurity-Home-Lab-Elastic-SIEM-Jira-SOC-Workflow)**
 - **[SOC Analyst Home Lab](https://github.com/mdenizcengiz/SOC-Analyst-Home-Lab)**
 - **[Threat Hunting Port of Entry](https://github.com/mdenizcengiz/Threat-Hunting-Project-Port-of-Entry)**
 - **[Threat Hunting Home Lab](https://github.com/mdenizcengiz/Threat-Hunting-Scenario)**
